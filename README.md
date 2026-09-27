@@ -37,7 +37,8 @@ The complete single-image tracing workflow and current-work recovery are free. L
 | Area | Status |
 | --- | --- |
 | Product strategy | Frozen focused V1; existing portfolio research informs the experiment |
-| Native implementation | Initial implementation; QA in progress |
+| Native implementation | Initial implementation; simulator build and signed archive succeeded; QA in progress |
+| Automated core checks | Three host XCTest cases passed September 27, 2026 |
 | Physical scale and paper suitability | Not verified; ruler/material checks required |
 | StoreKit sandbox purchases | Not verified |
 | Icon | Production direction selected and inspected at 40px |
