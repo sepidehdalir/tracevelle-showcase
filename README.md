@@ -1,9 +1,11 @@
 # Tracevelle
 ### Your pattern. Perfectly still.
 
+<img src="assets/icon.png" width="100" alt="Tracevelle layered botanical tracing-paper icon">
+
 A native tracing lightbox for iPhone and iPad, designed and engineered by **Sepideh Javanbakht Dalir**.
 
-**In development · Not released · Updated September 27, 2026.** Tracevelle is the approved provisional consumer brand; App Store name reservation is pending. This public repository contains curated product and engineering documentation. Commercial application source remains private.
+**In development · Not released · Updated September 27, 2026.** Apple has accepted the name Tracevelle: Tracing Lightbox; the app is in Prepare for Submission. This public repository contains curated product and engineering documentation. Commercial application source remains private.
 
 ## A focused tool for physical making
 
@@ -38,10 +40,17 @@ The complete single-image tracing workflow and current-work recovery are free. L
 | Native implementation | Initial implementation; QA in progress |
 | Physical scale and paper suitability | Not verified; ruler/material checks required |
 | StoreKit sandbox purchases | Not verified |
-| Final icon and premium screenshot campaign | In production; no final assets published yet |
+| Icon | Production direction selected and inspected at 40px |
+| Premium screenshot campaign | In production; final real-UI campaign not published |
 | App Store / release | Not submitted or released; no App Store link yet |
 
-The final icon, tailored iPhone/iPad advertising campaign, release evidence and App Store link will be added as each is completed. Screenshots must use real app UI and demonstrate the relationship between a digital pattern, a locked illuminated screen and a physical traced result.
+The tailored iPhone/iPad advertising campaign, release evidence and App Store link will be added as each is completed. Screenshots must use real app UI and demonstrate the relationship between a digital pattern, a locked illuminated screen and a physical traced result.
+
+## Visual identity
+
+Botanical ink, warm linen and burnished copper connect the interface to physical craft. This generated editorial still life is supporting artwork, not an app screenshot or material-performance evidence.
+
+<img src="assets/craft-still-life.png" width="420" alt="Embroidery and tracing-paper campaign artwork">
 
 ## About the developer
 
