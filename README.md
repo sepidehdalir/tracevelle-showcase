@@ -5,7 +5,7 @@
 
 A native tracing lightbox for iPhone and iPad, designed and engineered by **Sepideh Javanbakht Dalir**.
 
-**In development · Not released · Updated September 27, 2026.** Apple has accepted the name Tracevelle: Tracing Lightbox; the app is in Prepare for Submission. This public repository contains curated product and engineering documentation. Commercial application source remains private.
+**Release preparation · Not released · Updated September 27, 2026.** Apple has accepted the name Tracevelle: Tracing Lightbox; the app is in Prepare for Submission. This public repository contains curated product and engineering documentation. Commercial application source remains private.
 
 ## A focused tool for physical making
 
@@ -37,15 +37,28 @@ The complete single-image tracing workflow and current-work recovery are free. L
 | Area | Status |
 | --- | --- |
 | Product strategy | Frozen focused V1; existing portfolio research informs the experiment |
-| Native implementation | Initial implementation; simulator build and signed archive succeeded; QA in progress |
-| Automated core checks | Three host XCTest cases passed September 27, 2026 |
-| Physical scale and paper suitability | Not verified; ruler/material checks required |
-| StoreKit sandbox purchases | Not verified |
-| Icon | Production direction selected and inspected at 40px |
-| Premium screenshot campaign | In production; final real-UI campaign not published |
+| Native implementation | Universal native implementation; focused workflow tests and Apple archive validation passed |
+| Automated core checks | Core persistence/calibration, iPhone/iPad workflow and local StoreKit integration checks passed September 27, 2026 |
+| Physical scale and paper suitability | Deferred / non-blocking for V1; setup-dependent guidance, no unverified precision claims |
+| StoreKit | Local StoreKit Test verified $2.99 price loading, purchase, restore and revocation; no production-charge claim |
+| Icon | Final icon; inspected at 40px |
+| Premium screenshot campaign | Locked six-image iPhone and six-image iPad campaign, shown below |
 | App Store / release | Not submitted or released; no App Store link yet |
 
-The tailored iPhone/iPad advertising campaign, release evidence and App Store link will be added as each is completed. Screenshots must use real app UI and demonstrate the relationship between a digital pattern, a locked illuminated screen and a physical traced result.
+## Launch campaign
+
+Real native interface captures meet botanical craft photography, linen, paper and stitched outcomes. The iPad compositions use the larger canvas and side controls. Photography illustrates the workflow; it is not evidence of material or physical-scale performance.
+
+<img src="assets/iphone/01.png" width="240" alt="Your pattern perfectly still: paper tracing over an illuminated screen">
+<img src="assets/iphone/02.png" width="240" alt="Import your pattern into Tracevelle">
+<img src="assets/iphone/03.png" width="240" alt="Lock the pattern and enjoy making">
+<img src="assets/iphone/04.png" width="240" alt="Position and size controls">
+<img src="assets/iphone/05.png" width="240" alt="Embroidery, stencils and lettering">
+<img src="assets/iphone/06.png" width="240" alt="Free current-work recovery">
+
+[iPad campaign](assets/ipad) · [Full campaign preview](assets/campaign-preview.png) · [Privacy policy](PRIVACY.md)
+
+The App Store link will be added after Apple publishes Tracevelle.
 
 ## Visual identity
 
