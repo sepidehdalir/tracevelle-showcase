@@ -43,7 +43,7 @@ The complete single-image tracing workflow and current-work recovery are free. L
 | StoreKit | Local StoreKit Test verified $2.99 price loading, purchase, restore and revocation; no production-charge claim |
 | Icon | Final icon; inspected at 40px |
 | Premium screenshot campaign | Locked six-image iPhone and six-image iPad campaign, shown below |
-| App Store / release | Not submitted or released; no App Store link yet |
+| App Store / release | Build 1.0 (1) uploaded and Apple validation passed; App Review submission pending; not released |
 
 ## Launch campaign
 
