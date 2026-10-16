@@ -5,7 +5,7 @@
 
 A native tracing lightbox for iPhone and iPad, designed and engineered by **Sepideh Javanbakht Dalir**.
 
-**Submitted for review · Not released · Updated September 27, 2026.** Tracevelle: Tracing Lightbox version 1.0 (1) and Lifetime Pro are Waiting for Review. This public repository contains curated product and engineering documentation. Commercial application source remains private.
+**Released October 15, 2026 · Version 1.0 (1).** [Download Tracevelle on the App Store](https://apps.apple.com/us/app/tracevelle-tracing-lightbox/id6816772893). Public US availability was verified against Apple’s catalog. This public repository contains curated product and engineering documentation. Commercial application source remains private.
 
 ## A focused tool for physical making
 
@@ -43,7 +43,7 @@ The complete single-image tracing workflow and current-work recovery are free. L
 | StoreKit | Local StoreKit Test verified $2.99 price loading, purchase, restore and revocation; no production-charge claim |
 | Icon | Final icon; inspected at 40px |
 | Premium screenshot campaign | Locked six-image iPhone and six-image iPad campaign, shown below |
-| App Store / release | Version 1.0 (1) and Lifetime Pro submitted September 27, 2026; both Waiting for Review; not released |
+| App Store / release | Version 1.0 (1) released October 15, 2026; public US App Store listing verified |
 
 ## Launch campaign
 
@@ -58,7 +58,7 @@ Real native interface captures meet botanical craft photography, linen, paper an
 
 [iPad campaign](assets/ipad) · [Full campaign preview](assets/campaign-preview.png) · [Privacy policy](PRIVACY.md)
 
-The App Store link will be added after Apple publishes Tracevelle.
+[Download Tracevelle on the App Store](https://apps.apple.com/us/app/tracevelle-tracing-lightbox/id6816772893). Availability may vary by storefront.
 
 ## Visual identity
 
